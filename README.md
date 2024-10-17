@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
+Hi 👋 My name is Austin
+=======================
 <h3 align="center">A new Graduate looking for a job</h3>
 
 - 🔭 I’m currently working on **Project RA**
