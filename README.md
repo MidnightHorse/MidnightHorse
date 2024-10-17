@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aaron</h1>
+<h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A new Graduate looking for a job</h3>
 
-- 🔭 I’m currently working on **Project BR**
+- 🔭 I’m currently working on **Project RA**
 
 - 🌱 I’m currently learning **HTML**
 
-- 📫 How to reach me **aaron08820@gmail.com**
+- 📫 How to reach me **Austin.Haugland1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
