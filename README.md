@@ -1,6 +1,6 @@
 Hi 👋 My name is Austin
 =======================
-<h3 align="center">A new Graduate looking for a job</h3>
+<h3 align="center">A recent graduate</h3>
 
 - 🔭 I’m currently working on **Project RA**
 
